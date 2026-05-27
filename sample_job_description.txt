@@ -1,0 +1,7 @@
+Looking for a Data Analyst Intern.
+
+Requirements:
+- Python
+- SQL
+- Machine Learning
+- Communication Skills

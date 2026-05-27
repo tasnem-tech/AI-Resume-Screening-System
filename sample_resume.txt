@@ -1,0 +1,8 @@
+Tasnem Promy
+
+Skills:
+- Python
+- SQL
+- Machine Learning
+- Data Analytics
+- GitHub
